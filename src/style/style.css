@@ -390,6 +390,7 @@ img {
 
 .features__text {
   max-width: 584px;
+/*TODO: запись можно заменить в одну строку так margin: 0 auto 100px;*/
   margin: 0 auto;
   margin-bottom: 100px;
 
